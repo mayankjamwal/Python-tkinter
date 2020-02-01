@@ -1,3 +1,4 @@
+#Calculator app
 from tkinter import *
 
 root = Tk()
