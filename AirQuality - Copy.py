@@ -1,3 +1,5 @@
+# This application gives a real time Air Quality index and tells about the air quality condition with other factors
+
 from tkinter import *
 import requests
 sc = Tk()
